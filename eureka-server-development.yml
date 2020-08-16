@@ -1,4 +1,4 @@
 server:
    port : 8000
    
-msg: Welcome to eureka-server application
+msg: Welcome to eureka-server application !!
